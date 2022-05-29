@@ -69,18 +69,23 @@ JAVASCRIPT - 스크롤 기반 인터렉션
 - head에 readMe 아이콘 추가 및 링크 삽입
 
 0528
-- (profile, discography, media, goods) 총 4개의 html 추가
+- (drawer menu)profile, discography, media, goods 총 4개의 html 추가
 - 추가시킨 4개의 각 html별 제목 수정 및 링크 연결
-- official site 링크 연결
+- (drawer menu) official site 공식 홈페이지 링크 연결
 
 0529
+- http://www.littlegleemonster.ga/ 도메인 연결 완료
+- footer 서체 수정 (CSS)
+- (drawer menu) goods 링크 연결 (추후 한국어로 직접 작성 예정)
+
+0530
 - 
 
 //////////////////////////////////////////////////
 
 <앞으로 해야할 것>
-- footer 손보기
 - main 뮤직비디오 좌우 공간에 요소 생각해서 추가하기 (공간낭비)
-
-<0527 숙제>
-본인이 만든 사이트 닷홈 같은 곳을 통해 외부에서 볼 수 있게끔 만들어서 url을 메일로 보내기
+- profile 사진 애니메이션 활용해 작성
+- discography 공식 홈페이지의 미리듣기 음원 링크와 연결시키기
+- media div 여러개로 flex 활용하여 뮤직비디오 유튜브 링크 달아놓기 (생각을 다르게 해봐도 됨)
+- goods 사이트 링크보다 한국어로 직접 작성하기
