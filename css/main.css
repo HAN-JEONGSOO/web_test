@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'barton';
-    src: url('./font/Barton.ttf') format('truetype');
+    src: url('../font/Barton.ttf') format('truetype');
 }
 
 
@@ -154,7 +154,7 @@ body {
 /*################## Main ##################*/
 
 main {
-    background-image: url(./image/background.jpg);
+    background-image: url(../image/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -235,7 +235,7 @@ main {
 }
 
 .member-1 {
-    background-image: url(./image/lgm_yourname_serina.jpg);
+    background-image: url(../image/lgm_yourname_serina.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -245,7 +245,7 @@ main {
 }
 
 .member-2 {
-    background-image: url(./image/lgm_yourname_asahi.jpg);
+    background-image: url(../image/lgm_yourname_asahi.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -255,7 +255,7 @@ main {
 }
 
 .member-3 {
-    background-image: url(./image/lgm_yourname_mayu.jpg);
+    background-image: url(../image/lgm_yourname_mayu.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -265,7 +265,7 @@ main {
 }
 
 .member-4 {
-    background-image: url(./image/lgm_yourname_karen.jpg);
+    background-image: url(../image/lgm_yourname_karen.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -275,7 +275,7 @@ main {
 }
 
 .member-5 {
-    background-image: url(./image/lgm_yourname_manaka.jpg);
+    background-image: url(../image/lgm_yourname_manaka.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -308,7 +308,7 @@ main {
 }
 
 .simplePhoto-1 {
-    background-image: url(./image/simplePhoto_1.jpg);
+    background-image: url(../image/simplePhoto_1.jpg);
     background-repeat: no-repeat;
     width: 550px;
     height: 388px;
@@ -316,7 +316,7 @@ main {
 }
 
 .simplePhoto-2 {
-    background-image: url(./image/simplePhoto_2.png);
+    background-image: url(../image/simplePhoto_2.png);
     background-repeat: no-repeat;
     width: 600px;
     height: 360px;
